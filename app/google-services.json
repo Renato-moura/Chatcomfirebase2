@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "392692232664",
+    "firebase_url": "https://chatcomfirebase.firebaseio.com",
+    "project_id": "chatcomfirebase",
+    "storage_bucket": "chatcomfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392692232664:android:b5d69d3803a5cc619dc2ad",
+        "android_client_info": {
+          "package_name": "com.fatecipg.chatcomfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392692232664-4gc6mqgqnrtki6vghefuismo32n6c6qk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fatecipg.chatcomfirebase",
+            "certificate_hash": "e28e73bdce0d711cf465572bd838fd7fad082dbb"
+          }
+        },
+        {
+          "client_id": "392692232664-cssnr7nbutel744t3vc5idcbvnu738ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbH0ur9kOjNSeAO5VISO6IIvSJF61YekM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392692232664-cssnr7nbutel744t3vc5idcbvnu738ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
